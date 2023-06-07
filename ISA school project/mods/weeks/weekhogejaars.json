@@ -1,0 +1,32 @@
+{
+	"storyName": "hogejaars",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"hogejaarsconventie",
+			"youri",
+			[
+				255,
+				0,
+				153
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "hogejaars",
+	"hiddenUntilUnlocked": false
+}

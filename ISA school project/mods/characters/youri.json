@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				154,
+				399
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				311
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				326
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				334
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				302
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/youri",
+	"position": [
+		10,
+		100
+	],
+	"healthicon": "icon-youri",
+	"flip_x": true,
+	"healthbar_colors": [
+		119,
+		92,
+		58
+	],
+	"camera_position": [
+		160,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

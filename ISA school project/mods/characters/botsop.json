@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				154,
+				399
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				189,
+				381
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				308,
+				388
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				246,
+				396
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				176,
+				394
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/botsop",
+	"position": [
+		10,
+		100
+	],
+	"healthicon": "icon-botsop",
+	"flip_x": false,
+	"healthbar_colors": [
+		223,
+		221,
+		222
+	],
+	"camera_position": [
+		-180,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}
